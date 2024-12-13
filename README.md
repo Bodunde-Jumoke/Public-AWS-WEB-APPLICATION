@@ -25,6 +25,9 @@ I created a readme file a readme file for proper documentation of the project pr
 . I selected the LITA VPC created  and also the Public Subnet LITA created
 . I ensured the “Auto-assign Public IP” is set to “Enabled”
 . I selected the security group i created earlier
+Here is an image to show that
+![Network](/Network.png)
+
 ### Storage Setting
 . I used the default storage 8gb
 
